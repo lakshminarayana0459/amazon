@@ -2,20 +2,29 @@ Firebase :
 
 https://fir-b4c71.web.app/
 
-Login : console.firebase.com
-Step : Create a project 
-Step : and save the config in project overview >> Setting —> project settings —> useConfig
-Step : If You want Authentication go to authentication and click on sign in method >> email > enable it
-Step : To deploy in to firebase :
+Login : console.firebase.com,
+
+Step : Create a project ,
+
+Step : and save the config in project overview >> Setting —> project settings —> useConfig,
+
+Step : If You want Authentication go to authentication and click on sign in method >> email > enable it,
+
+Step : To deploy in to firebase :,
+
 Step : Need to login first 
-	Cmd : firebase login
-Step : initialise project
+	Cmd : firebase login,
+	
+Step : initialise project,
+
 Cmd : firebase init
       ==>  select hosting option
-     ==> select existing project
+     ==> select existing project,
+     
 Step : build project 
 	Cmd : build
-	Cmd : npm run build 
+	Cmd : npm run build ,
+	
 Step : deployment of project 
 	Cmd : firebase deploy
   
